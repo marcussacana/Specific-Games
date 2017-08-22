@@ -18,3 +18,7 @@ Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
 (Trying promote any tl proj to any lang, because i want read this novel a day.)
 
 ----------------
+#### Galaxy Angel - Eternal Lovers
+Requested by a friend
+
+----------------
