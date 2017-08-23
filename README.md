@@ -22,3 +22,7 @@ Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
 Requested by a friend
 
 ----------------
+### YoakeRuri
+The fucking SJIS encoding; Font redirected to "Gothic Modded"
+
+----------------
