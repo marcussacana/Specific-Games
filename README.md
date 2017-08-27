@@ -26,3 +26,7 @@ Requested by a friend
 The fucking SJIS encoding; Font redirected to "Gothic Modded"
 
 ----------------
+### Kyuuketsuki no Libra
+Bypass the fucking encryption and force use system font
+
+----------------
