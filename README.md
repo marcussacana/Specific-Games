@@ -30,3 +30,8 @@ The fucking SJIS encoding; Font redirected to "Gothic Modded"
 Bypass the fucking encryption; Font redirected to "Gothic Modded"
 
 ----------------
+#### If My Heart Had Wings 
+Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
+And possibility use the AdvHd Unicode Encoding (The script is 932 but when read the engine convert to utf-16)
+
+----------------
