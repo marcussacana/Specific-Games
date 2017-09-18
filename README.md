@@ -22,7 +22,7 @@ Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
 Requested by a friend
 
 ----------------
-### YoakeRuri and ~Da Capo~
+### YoakeRuri and \~Da Capo\~
 The fucking SJIS encoding changed to ISO-8859-1
 
 ----------------
