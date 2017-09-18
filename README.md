@@ -22,8 +22,8 @@ Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
 Requested by a friend
 
 ----------------
-### YoakeRuri
-The fucking SJIS encoding; Font redirected to "Gothic Modded"
+### YoakeRuri and ~Da Capo~
+The fucking SJIS encoding changed to ISO-8859-1
 
 ----------------
 ### Kyuuketsuki no Libra
