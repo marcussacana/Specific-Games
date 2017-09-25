@@ -36,3 +36,11 @@ Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
 And possibility use the AdvHd Unicode Encoding (The script is 932 but when read the engine convert to utf-16)
 
 ----------------
+### Atelier Firis - The Alchemist and the Mysterious Journey
+Bypass the Encryption
+
+Includes third-party tools, Credits in the rar.
+
+----------------
+
+
