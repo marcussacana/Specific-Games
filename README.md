@@ -46,4 +46,8 @@ Includes third-party tools, Credits in the rar.
 Add Wordwrap + Auto Char Replace
 
 ----------------
+### Hoshizora no Memoria
+Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
+
+----------------
 
