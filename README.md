@@ -50,4 +50,8 @@ Add Wordwrap + Auto Char Replace
 Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
 
 ----------------
+### Little Busters! English Edition
+Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
+
+----------------
 
