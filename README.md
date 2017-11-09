@@ -1,6 +1,7 @@
 ### Specific Games
 My tools that works only to a specified game. (unfortally)
 
+Please note, all tools here is a modded version of the engine using my StringReloads tool to inject the translation, If you have any problem, before report try download the lastest version of the SRL in this git: https://github.com/marcussacana/StringReloads
 
 ### Why my game don't have a correct tool?
 
@@ -52,6 +53,8 @@ Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
 ----------------
 ### Little Busters! English Edition
 Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
+
+Note: This use a specif build of the SRL, don't update it! (Uses a outdated version of the DllExport)
 
 ----------------
 
