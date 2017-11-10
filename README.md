@@ -54,4 +54,7 @@ Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
 Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
 
 ----------------
+### God Eater Ressurection
+Requested by a friend.
 
+----------------
