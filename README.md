@@ -57,7 +57,4 @@ Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
 Note: This use a specif build of the SRL, don't update it! (Uses a outdated version of the DllExport)
 
 ----------------
-### God Eater Ressurection
-Requested by a friend.
 
-----------------
