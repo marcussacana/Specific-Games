@@ -43,7 +43,7 @@ Bypass the Encryption
 Includes third-party tools, Credits in the rar.
 
 ----------------
-### Neptunia Re;Birth 1
+### Neptunia Re;Birth 1 & 2
 Add Wordwrap + Auto Char Replace
 
 ----------------
