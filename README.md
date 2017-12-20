@@ -54,7 +54,14 @@ Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
 ### Little Busters! English Edition
 Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
 
-Note: This use a specif build of the SRL, don't update it! (Uses a outdated version of the DllExport)
+Note: This use a specific build of the SRL, don't update it! (Uses a outdated version of the DllExport)
 
 ----------------
+###A Clockwork Ley-Line: The Borderline of Dusk
+Fucking Script Encryption And change the encoding to one compatible with accents
+
+Note: A tool to the PAC file is present in my github, for now, can't decode the image format.
+
+----------------
+
 
