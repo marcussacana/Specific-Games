@@ -63,5 +63,11 @@ Fucking Script Encryption And change the encoding to one compatible with accents
 Note: A tool to the PAC file is present in my github, for now, can't decode the image format.
 
 ----------------
+### Reminiscence
+- Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels);
+- Add Fake Wordwrap (Engine Don't support breaklines)
+- Font redirected to "Gothic Modded"
+
+----------------
 
 
