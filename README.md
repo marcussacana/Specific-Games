@@ -43,8 +43,10 @@ Bypass the Encryption
 Includes third-party tools, Credits in the rar.
 
 ----------------
-### Neptunia Re;Birth 1 & 2
+### Neptunia Re;Birth 1, 2 & 3
 Add Wordwrap + Auto Char Replace
+
+If you have stability issues, try apply the x64_patch
 
 ----------------
 ### Hoshizora no Memoria
@@ -69,5 +71,9 @@ Note: A tool to the PAC file is present in my github, for now, can't decode the 
 - Font redirected to "Gothic Modded"
 
 ----------------
+### Sword Art Online: Hollow Fragment 
+I have no idea, initially would make a suitable tool for the game ...
 
+However after some tests I noticed a common point where all the texts of the game pass, which is completely connient to use with SRL.
 
+----------------
