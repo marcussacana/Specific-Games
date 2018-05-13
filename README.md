@@ -77,3 +77,7 @@ I have no idea, initially would make a suitable tool for the game ...
 However after some tests I noticed a common point where all the texts of the game pass, which is completely connient to use with SRL.
 
 ----------------
+### Magical Marriage Lunatics!!
+Well... The SJIS Encoding, Font redirected to Gothic Modded
+
+----------------
