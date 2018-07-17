@@ -81,3 +81,7 @@ However after some tests I noticed a common point where all the texts of the gam
 Well... The SJIS Encoding, Font redirected to Gothic Modded
 
 ----------------
+### Hapymaher
+Requested, Bypass the encryption and put accents to works.
+
+----------------
