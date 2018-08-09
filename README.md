@@ -85,3 +85,8 @@ Well... The SJIS Encoding, Font redirected to Gothic Modded
 Requested, Bypass the encryption and put accents to works.
 
 ----------------
+### Sorcery Jokers
+Bypass the encryption and put accents to works.
+Special thanks to the BinaryFail, he give info about the anti-debugger of this engine
+
+----------------
