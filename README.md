@@ -95,4 +95,5 @@ Special thanks to the BinaryFail, he give info about the anti-debugger of this e
 Allow uses a custom font
 
 This patch don't allow reload the game text like others patch here, this patch is only to the font.
+
 ----------------
