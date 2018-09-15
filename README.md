@@ -97,3 +97,9 @@ Allow uses a custom font
 This patch don't allow reload the game text like others patch here, this patch is only to the font.
 
 ----------------
+### FoxHime
+Unity Engine, Requested by a friend.
+
+Text don't dumped, you need dump by your self.
+
+----------------
