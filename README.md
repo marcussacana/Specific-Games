@@ -103,3 +103,9 @@ Unity Engine, Requested by a friend.
 Text don't dumped, you need dump by your self.
 
 ----------------
+### Senjou no Folklore -Boukoku no Kishidan-
+Requested By a Friend.
+
+No Support to Accents!
+
+----------------
