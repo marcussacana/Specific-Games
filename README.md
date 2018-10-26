@@ -109,3 +109,9 @@ Requested By a Friend.
 No Support to Accents!
 
 ----------------
+### Otome ga Kanaderu Koi no Aria
+Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
+
+And possibility use the AdvHd Unicode Encoding (The script is 932 but when read the engine convert to utf-16)
+
+----------------
