@@ -120,3 +120,8 @@ Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
 And possibility use the AdvHd Unicode Encoding (The script is 932 but when read the engine convert to utf-16)
 
 ----------------
+###  If You Love Me, Then Say So!
+Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)  
+Redirect Font
+
+----------------
