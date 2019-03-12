@@ -69,7 +69,8 @@ Note: A tool to the PAC file is present in my github, for now, can't decode the 
 ### Reminiscence
 - Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels);
 - Add Fake Wordwrap (Engine Don't support breaklines)
-- Font redirected to "Gothic Modded"
+- Font redirected to "Gothic Modded"  
+(Proper tool now at: https://github.com/marcussacana/MajiroStringEditor)
 
 ----------------
 ### Sword Art Online: Hollow Fragment 
