@@ -1,4 +1,4 @@
-### Specific Games
+﻿### Specific Games
 My tools that works only to a specified game. (unfortally)
 
 Please note, all tools here is a modded version of the engine using my StringReloads tool to inject the translation,  
@@ -127,6 +127,11 @@ Redirect Font
 
 ----------------
 ### CROSS†CHANNEL (Steam Edition)
+Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)  
+And possibility use the AdvHd Unicode Encoding (The script is 932 but when read the engine convert to utf-16)
+
+----------------
+### The Most Forbidden Love in the World
 Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)  
 And possibility use the AdvHd Unicode Encoding (The script is 932 but when read the engine convert to utf-16)
 
