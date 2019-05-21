@@ -136,3 +136,8 @@ Edit-To-Corrupt Script-Style (Resize string affect the bytecode labels)
 And possibility use the AdvHd Unicode Encoding (The script is 932 but when read the engine convert to utf-16)
 
 ----------------
+### Daitoshokan no Hitsujikai
+Lazy to update my EthornelEditor
+Allow put patch files in the "Patch" directory, and set custom fonts
+
+----------------
