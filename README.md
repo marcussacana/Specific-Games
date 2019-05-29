@@ -141,3 +141,8 @@ Lazy to update my EthornelEditor
 Allow put patch files in the "Patch" directory, and set custom fonts
 
 ----------------
+### Hello, Goodbye
+Requested by a friend
+Allows Extract/Patch files
+
+----------------
