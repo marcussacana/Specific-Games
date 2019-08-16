@@ -150,3 +150,7 @@ Allows Extract/Patch files
 Lazy to do a proper repack tool.
 
 ----------------
+### Date A Live - Rio Reincarnation
+Lazy to do a proper script editor.
+
+----------------
