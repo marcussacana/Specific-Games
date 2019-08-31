@@ -154,3 +154,7 @@ Lazy to do a proper repack tool.
 Lazy to do a proper script editor.
 
 ----------------
+### The Witchs Love Diary
+Why dissasembly the script, when you can use the SRL? pff
+
+----------------
