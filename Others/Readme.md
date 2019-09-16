@@ -4,3 +4,6 @@
 **Dracu Riot**: 
 Patch that contains the April Fools + Antwon + Leak Patches merged into one, without Antwon shit's  
 Compatible with japanese version of the game with Update 1.1 and 1.2
+
+**Persona 5**:
+Stuff to extract, insert and translate the Persona 5 scripts, see the readme for more information
