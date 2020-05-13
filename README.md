@@ -162,3 +162,7 @@ Why dissasembly the script, when you can use the SRL? pff
 Everyone hate the YU-RIS
 
 ----------------
+### Nights of Azure
+Translatable Text Inside EXE
+
+----------------
