@@ -166,3 +166,7 @@ Everyone hate the YU-RIS
 Translatable Text Inside EXE
 
 ----------------
+### Amatsutsumi [JP]
+Bypass the fucking encryption.
+
+----------------
