@@ -176,3 +176,7 @@ Bypass the fucking encryption.
 ----------------
 ### Happymaher -Fragmentation Dream-
 Requested + Auto Install Example
+
+----------------
+### Fairy Fencer F - Advent Dark Force
+Requested by a friend
