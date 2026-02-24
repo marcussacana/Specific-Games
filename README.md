@@ -180,3 +180,7 @@ Requested + Auto Install Example
 ----------------
 ### Fairy Fencer F - Advent Dark Force
 Requested by a friend
+
+----------------
+### Tales of Xillia Remastered
+Our beloved UnityEngine with our hated IL2CPP
